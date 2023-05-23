@@ -1,3 +1,3 @@
 # PS-Analytics
 Analytics for PreloadService.
-Not in use atm. Made in Lua using Lapis.
+Not in use at the moment, when a beta is availabel it will be published.
